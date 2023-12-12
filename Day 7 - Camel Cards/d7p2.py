@@ -3,7 +3,7 @@ from collections import defaultdict
 input_file = 'input.txt'
 output_file = 'output2.txt'
 
-# Return whether the game is possible (id value) or impossible (0)
+# Return type of card 
 def getType(card):
     labels = defaultdict(int)
     for c in card: 

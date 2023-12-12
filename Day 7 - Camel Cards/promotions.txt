@@ -1,0 +1,315 @@
+promotion JJJJJ 0 - five of a kind to five of a kind
+promotion 3333J 1 - four of a kind to five of a kind
+promotion TJTTT 1 - four of a kind to five of a kind
+promotion 7J777 1 - four of a kind to five of a kind
+promotion JJJ8J 1 - four of a kind to five of a kind
+promotion QQQJQ 1 - four of a kind to five of a kind
+promotion JAAAA 1 - four of a kind to five of a kind
+promotion 888J8 1 - four of a kind to five of a kind
+promotion 5J555 1 - four of a kind to five of a kind
+promotion 44J44 1 - four of a kind to five of a kind
+promotion KKKJK 1 - four of a kind to five of a kind
+promotion 6666J 1 - four of a kind to five of a kind
+promotion 2222J 1 - four of a kind to five of a kind
+promotion 9J999 1 - four of a kind to five of a kind
+promotion 4J4J4 2 - full house to five of a kind
+promotion J3J33 2 - full house to five of a kind
+promotion J77J7 2 - full house to five of a kind
+promotion AJAJA 2 - full house to five of a kind
+promotion TJJJT 2 - full house to five of a kind
+promotion JJ555 2 - full house to five of a kind
+promotion JTJTT 2 - full house to five of a kind
+promotion J99J9 2 - full house to five of a kind
+promotion AJAJJ 2 - full house to five of a kind
+promotion J88J8 2 - full house to five of a kind
+promotion 66J6J 2 - full house to five of a kind
+promotion JJ222 2 - full house to five of a kind
+promotion TTTQJ 2 - three of a kind to four of a kind
+promotion JTTT5 2 - three of a kind to four of a kind
+promotion 6J646 2 - three of a kind to four of a kind
+promotion 888KJ 2 - three of a kind to four of a kind
+promotion KK8JK 2 - three of a kind to four of a kind
+promotion KKKJ5 2 - three of a kind to four of a kind
+promotion J7Q77 2 - three of a kind to four of a kind
+promotion T9JTT 2 - three of a kind to four of a kind
+promotion 3QJQQ 2 - three of a kind to four of a kind
+promotion Q66J6 2 - three of a kind to four of a kind
+promotion 727J7 2 - three of a kind to four of a kind
+promotion T99J9 2 - three of a kind to four of a kind
+promotion 66J86 2 - three of a kind to four of a kind
+promotion J5535 2 - three of a kind to four of a kind
+promotion TTT7J 2 - three of a kind to four of a kind
+promotion AJAKA 2 - three of a kind to four of a kind
+promotion 36J33 2 - three of a kind to four of a kind
+promotion 4J4T4 2 - three of a kind to four of a kind
+promotion 5K5J5 2 - three of a kind to four of a kind
+promotion 3444J 2 - three of a kind to four of a kind
+promotion AAAQJ 2 - three of a kind to four of a kind
+promotion KJ444 2 - three of a kind to four of a kind
+promotion 6766J 2 - three of a kind to four of a kind
+promotion 777AJ 2 - three of a kind to four of a kind
+promotion KK3JK 2 - three of a kind to four of a kind
+promotion JK777 2 - three of a kind to four of a kind
+promotion JAAA6 2 - three of a kind to four of a kind
+promotion 2AJAA 2 - three of a kind to four of a kind
+promotion J3338 2 - three of a kind to four of a kind
+promotion J88A8 2 - three of a kind to four of a kind
+promotion 2Q2J2 2 - three of a kind to four of a kind
+promotion JKKKQ 2 - three of a kind to four of a kind
+promotion KJ333 2 - three of a kind to four of a kind
+promotion 999QJ 2 - three of a kind to four of a kind
+promotion 777J9 2 - three of a kind to four of a kind
+promotion 52J55 2 - three of a kind to four of a kind
+promotion 444QJ 2 - three of a kind to four of a kind
+promotion KJK7K 2 - three of a kind to four of a kind
+promotion 9299J 2 - three of a kind to four of a kind
+promotion 77TJ7 2 - three of a kind to four of a kind
+promotion KKJ9K 2 - three of a kind to four of a kind
+promotion J5J3J 2 - three of a kind to four of a kind
+promotion 2QQJQ 2 - three of a kind to four of a kind
+promotion 223J2 2 - three of a kind to four of a kind
+promotion 222J5 2 - three of a kind to four of a kind
+promotion 994J9 2 - three of a kind to four of a kind
+promotion 6J777 2 - three of a kind to four of a kind
+promotion 669J6 2 - three of a kind to four of a kind
+promotion QQ5QJ 2 - three of a kind to four of a kind
+promotion 888J3 2 - three of a kind to four of a kind
+promotion J9969 2 - three of a kind to four of a kind
+promotion JQ888 2 - three of a kind to four of a kind
+promotion TTKTJ 2 - three of a kind to four of a kind
+promotion 88J68 2 - three of a kind to four of a kind
+promotion A9JAA 2 - three of a kind to four of a kind
+promotion 45J44 2 - three of a kind to four of a kind
+promotion A3JAA 2 - three of a kind to four of a kind
+promotion 7775J 2 - three of a kind to four of a kind
+promotion 222J9 2 - three of a kind to four of a kind
+promotion 9959J 2 - three of a kind to four of a kind
+promotion T5TJJ 3 - two pair to four of a kind
+promotion AJJA9 3 - two pair to four of a kind
+promotion TTJ22 2 - two pair to full house
+promotion 4J422 2 - two pair to full house
+promotion 77QJQ 2 - two pair to full house
+promotion JQJQ8 3 - two pair to four of a kind
+promotion T99JT 2 - two pair to full house
+promotion Q4QJ4 2 - two pair to full house
+promotion J4455 2 - two pair to full house
+promotion 9JJ33 3 - two pair to four of a kind
+promotion 69J69 2 - two pair to full house
+promotion QAAJQ 2 - two pair to full house
+promotion 799JJ 3 - two pair to four of a kind
+promotion 626JJ 3 - two pair to four of a kind
+promotion 7J7KK 2 - two pair to full house
+promotion 9AJ9A 2 - two pair to full house
+promotion 5J9J5 3 - two pair to four of a kind
+promotion 2JA2A 2 - two pair to full house
+promotion A66JA 2 - two pair to full house
+promotion JJT22 3 - two pair to four of a kind
+promotion 8Q8QJ 2 - two pair to full house
+promotion 4J4AA 2 - two pair to full house
+promotion 8844J 2 - two pair to full house
+promotion 996JJ 3 - two pair to four of a kind
+promotion 499J4 2 - two pair to full house
+promotion J7373 2 - two pair to full house
+promotion 668J8 2 - two pair to full house
+promotion J8J77 3 - two pair to four of a kind
+promotion 6J464 2 - two pair to full house
+promotion KJ99K 2 - two pair to full house
+promotion 5T5JT 2 - two pair to full house
+promotion J2828 2 - two pair to full house
+promotion J66JT 3 - two pair to four of a kind
+promotion AJ77A 2 - two pair to full house
+promotion JAJAQ 3 - two pair to four of a kind
+promotion 922J9 2 - two pair to full house
+promotion 2J72J 3 - two pair to four of a kind
+promotion 878JJ 3 - two pair to four of a kind
+promotion JJT6T 3 - two pair to four of a kind
+promotion J2K2K 2 - two pair to full house
+promotion J5656 2 - two pair to full house
+promotion 775J5 2 - two pair to full house
+promotion 5J7J7 3 - two pair to four of a kind
+promotion 3388J 2 - two pair to full house
+promotion J4JKK 3 - two pair to four of a kind
+promotion J774J 3 - two pair to four of a kind
+promotion 355J3 2 - two pair to full house
+promotion JJK3K 3 - two pair to four of a kind
+promotion J9797 2 - two pair to full house
+promotion AA3J3 2 - two pair to full house
+promotion A8A8J 2 - two pair to full house
+promotion KJK33 2 - two pair to full house
+promotion KKJAA 2 - two pair to full house
+promotion 2JQ2Q 2 - two pair to full house
+promotion J4747 2 - two pair to full house
+promotion 7388J 2 - one pair to three of a kind
+promotion JK49K 2 - one pair to three of a kind
+promotion JQ6AJ 2 - one pair to three of a kind
+promotion 3QJ39 2 - one pair to three of a kind
+promotion JJ867 2 - one pair to three of a kind
+promotion JT6T8 2 - one pair to three of a kind
+promotion 964J6 2 - one pair to three of a kind
+promotion 24J4T 2 - one pair to three of a kind
+promotion 6Q44J 2 - one pair to three of a kind
+promotion 7Q4J7 2 - one pair to three of a kind
+promotion 9J698 2 - one pair to three of a kind
+promotion TK2KJ 2 - one pair to three of a kind
+promotion JAA7K 2 - one pair to three of a kind
+promotion JA62A 2 - one pair to three of a kind
+promotion 3699J 2 - one pair to three of a kind
+promotion T3TAJ 2 - one pair to three of a kind
+promotion 3J23A 2 - one pair to three of a kind
+promotion T3J6J 2 - one pair to three of a kind
+promotion J63J7 2 - one pair to three of a kind
+promotion JTQQ6 2 - one pair to three of a kind
+promotion JA556 2 - one pair to three of a kind
+promotion TJ8J2 2 - one pair to three of a kind
+promotion 423J3 2 - one pair to three of a kind
+promotion 6JQ6A 2 - one pair to three of a kind
+promotion JK4K8 2 - one pair to three of a kind
+promotion 5TJT2 2 - one pair to three of a kind
+promotion JT822 2 - one pair to three of a kind
+promotion 7J9KK 2 - one pair to three of a kind
+promotion KJ88A 2 - one pair to three of a kind
+promotion 88JK2 2 - one pair to three of a kind
+promotion JQ2J8 2 - one pair to three of a kind
+promotion T55J3 2 - one pair to three of a kind
+promotion K4QJK 2 - one pair to three of a kind
+promotion 899J4 2 - one pair to three of a kind
+promotion J68AJ 2 - one pair to three of a kind
+promotion Q76J7 2 - one pair to three of a kind
+promotion QQ93J 2 - one pair to three of a kind
+promotion 82J87 2 - one pair to three of a kind
+promotion 5J996 2 - one pair to three of a kind
+promotion QJ86J 2 - one pair to three of a kind
+promotion J9QAQ 2 - one pair to three of a kind
+promotion AAJ45 2 - one pair to three of a kind
+promotion 7J442 2 - one pair to three of a kind
+promotion QKQJA 2 - one pair to three of a kind
+promotion 32J5J 2 - one pair to three of a kind
+promotion J557T 2 - one pair to three of a kind
+promotion 5JQ66 2 - one pair to three of a kind
+promotion TJ949 2 - one pair to three of a kind
+promotion TAAJ6 2 - one pair to three of a kind
+promotion JTA88 2 - one pair to three of a kind
+promotion J277K 2 - one pair to three of a kind
+promotion JTJ67 2 - one pair to three of a kind
+promotion 99J2K 2 - one pair to three of a kind
+promotion JKQQ5 2 - one pair to three of a kind
+promotion JAT4J 2 - one pair to three of a kind
+promotion 5658J 2 - one pair to three of a kind
+promotion J6AA8 2 - one pair to three of a kind
+promotion 433JT 2 - one pair to three of a kind
+promotion J5635 2 - one pair to three of a kind
+promotion TQ7JQ 2 - one pair to three of a kind
+promotion JJK53 2 - one pair to three of a kind
+promotion 39JA3 2 - one pair to three of a kind
+promotion QTQKJ 2 - one pair to three of a kind
+promotion J3T3A 2 - one pair to three of a kind
+promotion 696J8 2 - one pair to three of a kind
+promotion JT7JA 2 - one pair to three of a kind
+promotion 65QQJ 2 - one pair to three of a kind
+promotion 3J673 2 - one pair to three of a kind
+promotion JQ662 2 - one pair to three of a kind
+promotion 8JJ4T 2 - one pair to three of a kind
+promotion K522J 2 - one pair to three of a kind
+promotion 9JAA2 2 - one pair to three of a kind
+promotion 52J24 2 - one pair to three of a kind
+promotion 522QJ 2 - one pair to three of a kind
+promotion A6JQA 2 - one pair to three of a kind
+promotion K4JA4 2 - one pair to three of a kind
+promotion 8J292 2 - one pair to three of a kind
+promotion JTK2J 2 - one pair to three of a kind
+promotion 7J736 2 - one pair to three of a kind
+promotion J9A98 2 - one pair to three of a kind
+promotion 559JQ 2 - one pair to three of a kind
+promotion 8J7TJ 2 - one pair to three of a kind
+promotion T49TJ 2 - one pair to three of a kind
+promotion JK355 2 - one pair to three of a kind
+promotion JA9TJ 2 - one pair to three of a kind
+promotion 85J35 2 - one pair to three of a kind
+promotion 538J8 2 - one pair to three of a kind
+promotion 2J585 2 - one pair to three of a kind
+promotion 358JJ 2 - one pair to three of a kind
+promotion AA58J 2 - one pair to three of a kind
+promotion 98J28 2 - one pair to three of a kind
+promotion 2A8JJ 2 - one pair to three of a kind
+promotion 8JTTQ 2 - one pair to three of a kind
+promotion J4QK4 2 - one pair to three of a kind
+promotion QQJ5A 2 - one pair to three of a kind
+promotion JK767 2 - one pair to three of a kind
+promotion A66TJ 2 - one pair to three of a kind
+promotion 7JQTJ 2 - one pair to three of a kind
+promotion A28J8 2 - one pair to three of a kind
+promotion 4A2AJ 2 - one pair to three of a kind
+promotion 933J4 2 - one pair to three of a kind
+promotion KKA5J 2 - one pair to three of a kind
+promotion J7Q5J 2 - one pair to three of a kind
+promotion J97A4 1 - high card to one pair
+promotion J8KQ3 1 - high card to one pair
+promotion 4925J 1 - high card to one pair
+promotion J8K4T 1 - high card to one pair
+promotion 92J3A 1 - high card to one pair
+promotion T985J 1 - high card to one pair
+promotion 8573J 1 - high card to one pair
+promotion T8JA5 1 - high card to one pair
+promotion JT4Q9 1 - high card to one pair
+promotion 48J56 1 - high card to one pair
+promotion K4J87 1 - high card to one pair
+promotion J96QA 1 - high card to one pair
+promotion 2J95K 1 - high card to one pair
+promotion 39T4J 1 - high card to one pair
+promotion 7Q9JK 1 - high card to one pair
+promotion 29QJ8 1 - high card to one pair
+promotion 3J5K9 1 - high card to one pair
+promotion JQK34 1 - high card to one pair
+promotion 4A6J5 1 - high card to one pair
+promotion J5K36 1 - high card to one pair
+promotion 378JQ 1 - high card to one pair
+promotion JK5Q2 1 - high card to one pair
+promotion 7J52Q 1 - high card to one pair
+promotion 43JKA 1 - high card to one pair
+promotion A2Q5J 1 - high card to one pair
+promotion 38TAJ 1 - high card to one pair
+promotion T8J2A 1 - high card to one pair
+promotion JA8K4 1 - high card to one pair
+promotion K79JA 1 - high card to one pair
+promotion TQJ3A 1 - high card to one pair
+promotion 93TJ7 1 - high card to one pair
+promotion J2467 1 - high card to one pair
+promotion TJ746 1 - high card to one pair
+promotion 74QKJ 1 - high card to one pair
+promotion 24A5J 1 - high card to one pair
+promotion T762J 1 - high card to one pair
+promotion 75JA9 1 - high card to one pair
+promotion TJ52A 1 - high card to one pair
+promotion J972T 1 - high card to one pair
+promotion 2QJ58 1 - high card to one pair
+promotion 79A8J 1 - high card to one pair
+promotion 29JTK 1 - high card to one pair
+promotion JQ86T 1 - high card to one pair
+promotion QT5JK 1 - high card to one pair
+promotion J97A2 1 - high card to one pair
+promotion 3JA7K 1 - high card to one pair
+promotion 428JT 1 - high card to one pair
+promotion Q5A8J 1 - high card to one pair
+promotion 2AJ49 1 - high card to one pair
+promotion Q28J6 1 - high card to one pair
+promotion AT9J3 1 - high card to one pair
+promotion J3QA7 1 - high card to one pair
+promotion K6QJ7 1 - high card to one pair
+promotion 7T98J 1 - high card to one pair
+promotion 4JK85 1 - high card to one pair
+promotion 65JQ4 1 - high card to one pair
+promotion K84J2 1 - high card to one pair
+promotion 452J3 1 - high card to one pair
+promotion T573J 1 - high card to one pair
+promotion 385KJ 1 - high card to one pair
+promotion J6398 1 - high card to one pair
+promotion KA52J 1 - high card to one pair
+promotion 57J42 1 - high card to one pair
+promotion AJKT8 1 - high card to one pair
+promotion KT9J4 1 - high card to one pair
+promotion 8TQJK 1 - high card to one pair
+promotion J4K37 1 - high card to one pair
+promotion JT728 1 - high card to one pair
+promotion 4A69J 1 - high card to one pair
+promotion 34J58 1 - high card to one pair
+promotion Q379J 1 - high card to one pair
